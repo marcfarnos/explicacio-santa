@@ -1,0 +1,226 @@
+* {
+    
+    font-family: 'Montserrat', sans-serif;
+       background-color: #dceffc;
+
+}
+
+body {
+    margin: 0;
+    background-color: #f2f7ff;
+}
+
+ul {
+    padding: 0px;
+    margin-top: 0px;
+    padding-top: 0px;
+}
+
+li {
+    list-style: none;
+
+}
+
+a {
+    width: 100%;
+    display: block;
+}
+
+.objectius {
+    display: flex;
+    width: 80%;
+    margin-left: 15%;
+    height: 10vh;
+    justify-content: center;
+    align-items: center;
+    background-color: #99b3ff;
+}
+
+
+.menu {
+    margin-top: 10%;
+    width: 14%;
+    position: fixed;
+    left: 0;
+
+}
+
+.aa {
+
+    height: 14vh;
+    display: flex;
+    position: relative;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    vertical-align: middle;
+    color: whitesmoke;
+    font-family: sans-serif;
+}
+.aa:hover {
+    transform: scale(1.3)
+}
+
+
+.boto1 {
+    color: darkblue;
+    height: 5%;
+    text-align: center;
+    margin: auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 20px;
+    
+}
+
+.intro {
+    
+    width: 70%;
+    height: 50%;
+    background-color: aqua;
+    text-align: left;
+    
+    
+}
+
+.a {
+    width: 85%;
+    margin-left: 10%;
+}
+
+.textintro {
+    width:60%;
+
+    color: aliceblue;
+ background-image: url(img/hehe.gif);
+    background-position: bottom;
+}
+
+.textitle {
+    font-size: 70%;
+  display: flex;
+    
+}
+
+.caraa {
+    width: 50%;
+    
+}
+
+.titol {
+    display: flex;
+    width: 100%;
+    font-size: 50px;
+    justify-content: center;
+    align-items: center;
+    margin-left: 4%;
+    margin: auto;
+
+    
+
+
+}
+
+.grandios {
+    width: 100%;
+        display: flex;
+        justify-content: flex-end;
+     flex-flow: row nowrap;
+   
+}
+
+.grandio {
+
+    width: 85%;
+    justify-content: flex-end;
+    
+    
+    
+}
+
+.icons {
+    width: 30%
+}
+
+.fotoarea {
+    width: 100%;
+    margin:5%
+}
+
+.boto {
+    width: 70px;
+    height: 70px;
+    margin: auto;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: darkblue;
+    border-radius: 20px;
+    color:  #e6ecff;
+    margin-bottom: 10%;
+    text-decoration: none;
+    font-size: 80%;
+    
+
+}
+.boto:hover {
+    transform: scale(1.2)
+}
+
+.icons1 {
+     width: 20%
+}
+
+.fotoare3 {
+    display: flex;
+    justify-content: center;
+    width: 60%;
+}
+
+.emoji {
+    margin-left: 2%;
+   width:  40%;
+    justify-content: center;
+    align-items: center;
+    margin-top: 4%;
+}
+
+.gg {
+    width: 50%;
+    display: flex;
+    justify-content: center;
+    margin: auto;
+    margin-top: 5%;
+    
+}
+
+.emoji1 {
+    margin-top: 4%;
+       width:  70%;
+    justify-content: center;
+    align-items: center
+}
+
+.b {
+        width: 85%;
+ height: 400px;
+    margin-left: 10%;
+    justify-content: center;
+    align-items: center;
+    ;
+}
+
+.noms {margin-left: 10%;
+    font-size: 15px;
+    transform: scale(1.2);
+    text-decoration: none;
+}
+
+.video {
+    display: flex;
+    width: 50%;
+    margin: auto;
+}
+
+
